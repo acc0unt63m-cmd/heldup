@@ -5,7 +5,7 @@
 
 
     // It is not recommended to make changes to this script on your own, as any consequences of malfunction will be your responsibility.
-    // Sincerely, Cloaking.House
+    // Sincy, Cloaking.House
 
 
 
